@@ -74,3 +74,13 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+## Keywords
+
+Newton telescope  
+Newtonian collimation  
+Telescope collimation  
+Astrophotography tools  
+Focuser alignment  
+Camera collimation  
+Reflector telescope collimation
