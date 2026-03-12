@@ -65,6 +65,7 @@ In practice it works well as a **field collimation assistant**, especially when 
 ---
 
 ---
+
 ## Keywords
 
 Newton telescope  
@@ -74,6 +75,7 @@ Astrophotography tools
 Focuser alignment  
 Camera collimation  
 Reflector telescope collimation
+
 ---
 
 ## Requirements
