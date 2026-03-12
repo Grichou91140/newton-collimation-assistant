@@ -64,6 +64,18 @@ In practice it works well as a **field collimation assistant**, especially when 
 
 ---
 
+---
+## Keywords
+
+Newton telescope  
+Newtonian collimation  
+Telescope collimation  
+Astrophotography tools  
+Focuser alignment  
+Camera collimation  
+Reflector telescope collimation
+---
+
 ## Requirements
 
 - Python 3.9+
@@ -74,13 +86,3 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-
-## Keywords
-
-Newton telescope  
-Newtonian collimation  
-Telescope collimation  
-Astrophotography tools  
-Focuser alignment  
-Camera collimation  
-Reflector telescope collimation
