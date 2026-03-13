@@ -64,7 +64,7 @@ shortcut m (multiple angles),
 then p (clic 3 points), 
 then u (again 3 points to define sector to analyse)
 then d (detect focuser tube)
-then n (new detection)
+then n (save the center and new detection)
 turn the camera 90°
 ![Detection window](examples/2-DETECTION.png)
 After 4 angles, 0°, 90°, 180°, 270° 
