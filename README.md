@@ -57,12 +57,23 @@ This tool instead:
 In practice it works well as a **field collimation assistant**, especially when combined with a final star test or Cheshire verification.
 
 ---
-
+First Step :
 ![Main](examples/1-MAIN-DETECTION-WINDOW.png)
+Detection : 
+shortcut m (multiple angles), 
+then p (clic 3 points), 
+then u (again 3 points to define sector to analyse)
+then d (detect focuser tube)
+then n (new detection)
+turn the camera 90°
 ![Detection window](examples/2-DETECTION.png)
+After 4 angles, 0°, 90°, 180°, 270° 
 ![After 4 detections](examples/3-LAST-DETECTION.png)
+shortcut b brings to review window
 ![Setup window](examples/4-REVIEW-WINDOW.png)
+Make your collimation based on the detected center wich is the geometrical center of the focuser tube
 ![Done](examples/5-COLLIMATION.png)
+Then t and turn VERY GENTLY the camera, after 5s you'll get the result.
 ![Test and Confidence](examples/6-FINAL_TEST_and_RESULTS.png)
 
 ---
