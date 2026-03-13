@@ -58,12 +58,6 @@ In practice it works well as a **field collimation assistant**, especially when 
 
 ---
 
-## Example
-
-![Example](examples/1-MAIN DETECTION WINDOW)
-
----
-
 ---
 
 ## Keywords
