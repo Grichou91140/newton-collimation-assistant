@@ -60,7 +60,7 @@ In practice it works well as a **field collimation assistant**, especially when 
 
 ## Example
 
-![Example](images/example_view.png)
+![Example](examples/1-MAIN DETECTION WINDOW)
 
 ---
 
