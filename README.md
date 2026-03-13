@@ -57,7 +57,7 @@ This tool instead:
 In practice it works well as a **field collimation assistant**, especially when combined with a final star test or Cheshire verification.
 
 ---
-
+![Main window of the script](examples/1-MAIN DETECTION WINDOW.png)
 ---
 
 ## Keywords
