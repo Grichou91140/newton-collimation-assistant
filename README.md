@@ -58,7 +58,7 @@ In practice it works well as a **field collimation assistant**, especially when 
 
 ---
 
-![Detection window](examples/2-DETECTION.png)
+![Main](examples/1-MAIN-DETECTION-WINDOW.png)
 ![Detection window](examples/2-DETECTION.png)
 ![After 4 detections](examples/3-LAST-DETECTION.png)
 ![Setup window](examples/4-REVIEW-WINDOW.png)
